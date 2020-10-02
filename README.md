@@ -3,7 +3,7 @@
 
 Welcome on my GitHub Profile ! :wink:
 
-## About me :eyes:
+## About me :eyes:
 
 I'm Dorian, I was a chemistry technician and now I'm a french Web Developper looking for a job / traineeship ! :computer: :star:
 I did my reconversion cursus at [@oclock_io](https://twitter.com/Oclock_io) with my favorite promotion ! :man_student: :man_astronaut:
@@ -50,7 +50,7 @@ But as Web Developpers, we are not stopping to study, we are always learning thi
 
 ### Visitor Counter :pencil:
 
-![Visitor Counter](https://profile-counter.glitch.me/dorian-garcia-dev/count.svg)
+![Visitor Counter](https://profile-counter.glitch.me/Dorianspeed-dev/count.svg)
 
 It seems like you are not the first one ! :thinking:
 
