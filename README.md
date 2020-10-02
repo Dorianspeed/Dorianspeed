@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD026 -->
 # Hey there :wave:
 
+Welcome on my GitHub Profile ! :wink:
+
 ## About me :eyes:
 
 I'm Dorian, I was a chemistry technician and now I'm a french Web Developper looking for a job / traineeship ! :computer: :star:
@@ -10,7 +12,6 @@ I did my reconversion cursus at [@oclock_io](https://twitter.com/Oclock_io) with
 
 I would like to thank them for all they did for me ! :bow:
 
-<!-- markdownlint-disable MD026 -->
 ## Languages and Tools :hammer_and_wrench:
 
 In this cursus, I learnt a lot of techologies and tools in order to become a Fullstack JavaScript Developer :dizzy: :
