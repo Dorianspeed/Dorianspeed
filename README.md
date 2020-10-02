@@ -5,7 +5,7 @@ Welcome on my GitHub Profile ! :wink:
 
 ## About me :eyes:
 
-I'm Dorian, I was a chemistry technician and now I'm a french Web Developper looking for a job / traineeship ! :computer: :star:
+I'm Dorian, I was a chemistry technician and now I'm a french Web Developper looking for a job / traineeship ! :computer: :star: </br>
 I did my reconversion cursus at [@oclock_io](https://twitter.com/Oclock_io) with my favorite promotion ! :man_student: :man_astronaut:
 
 ![Galactica Banner](assets/galactica.jpeg)
@@ -25,7 +25,7 @@ In this cursus, I learnt a lot of techologies and tools in order to become a Ful
 
 But as Web Developpers, we are not stopping to study, we are always learning things ! :books:
 
-:seedling: Now, I'm sharpening my JavaScript skills and I'm learning Python for Data Science on [Datacamp](https://www.datacamp.com/).
+:seedling: Now, I'm sharpening my JavaScript skills and I'm learning Python for Data Science on [Datacamp](https://www.datacamp.com/). </br>
 :construction_worker_man: I'm currently working on my project "Mur des Pensées" and I'm deploying a new Virtual Machine for my developement environment.:penguin:
 
 ## My Projects :book:
